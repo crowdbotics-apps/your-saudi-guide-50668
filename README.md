@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mapbox-maps](modules/mapbox-maps)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [react-native-qr-code](modules/qr-code)
+- [react-native-zoom-free-calling](modules/zoom-free-calling)
 
 # Getting started: Frontend
 
